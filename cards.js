@@ -1,3 +1,5 @@
+// PART 2 CARDS
+
 alert("hello I am JS");
 const newDeckDraw1='https://deckofcardsapi.com/api/deck/new/draw/?count=1'
 const baseAPIURL='https://deckofcardsapi.com/api/deck'
